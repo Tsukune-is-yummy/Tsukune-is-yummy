@@ -1,18 +1,21 @@
-## Hi there 👋
-___
-Welcome to Tsukune World!!
-<!--
-**Tsukune-is-yummy/Tsukune-is-yummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# なんやここ
 
-Here are some ideas to get you started:
+ようこそ！ここはつくねのGithubページです
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm currently working on Tasknotifier-Systen
+## 自己紹介
+
+はじめまして！、つくねと申します。
+中学校でならったhtmlを使いWebサイトを作成したり、高校で習ったPythonをつかってなんか作ってます！
+
+### I'm Working on
+
+現在は、
+Pythonによる提出物管理システム
+Next.js+TailwindCSS/PostCSSでWebサイトの作成を行っております！
+
+### I'm Learning on
+
+Rustとやらを教えてもらっています
+残念ながら、まだスタート地点には到底つけそうにはありません
+
+________
