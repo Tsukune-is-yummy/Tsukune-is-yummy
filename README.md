@@ -1,6 +1,6 @@
 ## Hi there 👋
 ___
-Welcome to TsukuneWorld!!
+Welcome to Tsukune World!!
 <!--
 **Tsukune-is-yummy/Tsukune-is-yummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on Tasknotifier-Systen
