@@ -5,12 +5,14 @@
 ## 自己紹介
 
 はじめまして！、つくねと申します。   
-中学校でならったhtmlを使いWebサイトを作成したり、高校で習ったPythonをつかってなんか作ってます！
+中学校でならったhtmlを使いWebサイトを作成したり、高校で習ったPythonをつかってなんか作ってます！  
 
 ### I'm Working on
 
 現在は、
 Pythonによる提出物管理システム   
+今Goで書き直しています！！  
+
 Next.js+TailwindCSS/PostCSSでWebサイトの作成を行っております！   
 
 ### I'm Learning on
@@ -18,4 +20,6 @@ Next.js+TailwindCSS/PostCSSでWebサイトの作成を行っております！
 Rustとやらを教えてもらっています   
 残念ながら、まだスタート地点には到底つけそうにはありません
 
+提出物管理システム(PulseTaskr)をGo言語で書こうと試みてます
+  
 ________
